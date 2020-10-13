@@ -7,6 +7,7 @@
 ## create hello world program
 <code>$ gedit helloworld.c</code>
 ## run c program in GCC complier
-<code>$ gcc -o hello helloworld.c</code>
+<code>$ gcc -o hello helloworld.c </code>
+<br>
 <code> $ ./hello </code>
 
